@@ -1,0 +1,14 @@
+Extract contents of this zip to your mod directory.
+
+Windows: ~\Documents\Paradox Interactive\Europa Universalis IV\mod\
+GNU/Linux: ~/.local/share/Paradox Interactive/Europa Universalis IV/mod/
+Mac: ~/Documents/Paradox Interactive/Europa Universalis IV/mod/
+
+Directory structure should be as follows:
+
+mod/
+  removeckeybind.mod
+  removeckeybind/
+    descriptor.mod
+    interface/
+      unitpanel_card.gui
