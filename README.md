@@ -9,6 +9,23 @@ Compatible with **v1.28.3**
 * Search the code for `#### REMOVECKEYBIND` to see where it differs.
 
 ### Manual Installation
-TODO: after publishing release.
+* Download [EU4-1.28.3-removeckeybind.zip](https://github.com/kittenparry/EU4-removeckeybind/releases/tag/1.28.3).
+* Extract contents of the zip into your mod directory. See [footnote](#mod-directory-path) for its location & resulting directory structure.
+* Turn it on in launcher's Mods tab, if it doesn't work try turning it on and off a few times.
 
 ![](https://raw.githubusercontent.com/kittenparry/EU4-removeckeybind/master/extras/screenshot.jpg)
+
+### Mod directory path
+Windows: `~\Documents\Paradox Interactive\Europa Universalis IV\mod\`  
+GNU/Linux: `~/.local/share/Paradox Interactive/Europa Universalis IV/mod/`  
+Mac: `~/Documents/Paradox Interactive/Europa Universalis IV/mod/`
+
+Your mod directory structure should be like the following after the extraction:
+```
+mod/
+  removeckeybind.mod
+  removeckeybind/
+    descriptor.mod
+    interface/
+      unitpanel_card.gui
+```
