@@ -8,4 +8,4 @@ Compatible with **v1.28.3**
 * Not that it needed its own repo for simple 2 lines (heck, 2 characters) of change, but here we go.
 * Search the code for `#### REMOVECKEYBIND` to see where it differs.
 
-![](https://raw.githubusercontent.com/kittenparry/EU4-removeckeybind/master/removeckeybind/img.png)
+![](https://raw.githubusercontent.com/kittenparry/EU4-removeckeybind/master/extras/screenshot.jpg)
