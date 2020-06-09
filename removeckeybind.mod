@@ -5,4 +5,4 @@ tags={
 	"Fixes"
 }
 picture="img.png"
-supported_version="1.29.*.*"
+supported_version="1.30.*.*"
