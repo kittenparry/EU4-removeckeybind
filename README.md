@@ -1,7 +1,7 @@
 # Remove C keybind from military interface
 This Europa Universalis IV mod enables you to confirm pop-ups with C keybind when a military unit is selected.
 
-Compatible with **v1.30**
+Compatible with **v1.31**
 
 [Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=1733443438)
 
@@ -9,9 +9,10 @@ Compatible with **v1.30**
 * Search the code for `#### REMOVECKEYBIND` to see where it differs.
 
 ### Manual Installation
-* Download [EU4-1.30-removeckeybind.zip](https://github.com/kittenparry/EU4-removeckeybind/releases/latest).
+* Download [EU4-1.31-removeckeybind.zip](https://github.com/kittenparry/EU4-removeckeybind/releases/latest).
 * Extract contents of the zip into your mod directory. See [footnote](#mod-directory-path) for its location & resulting directory structure.
-* Turn it on in launcher's Mods tab, if it doesn't work try turning it on and off a few times.
+* In launcher go into Playsets, if it doesn't show up, click on `Add More Mods` on top right.
+* Turn it on, if it doesn't work try turning it on and off a few times.
 
 ![](https://raw.githubusercontent.com/kittenparry/EU4-removeckeybind/master/extras/screenshot.jpg)
 
